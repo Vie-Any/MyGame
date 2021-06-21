@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Environment
+  - NPC
+  - Boom
+  - FX
+  - Player
+  - Check Area
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4093914817
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 3349014227
+    locked: 0
+  - name: NPC
+    uniqueID: 938582345
+    locked: 0
